@@ -1,0 +1,292 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "titulo": "CREMA LUBRIDERM EXTRA HUMECTANTE 200 ML.",
+      "precio": 230,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 2,
+      "titulo": "JABÓN ANTIBACTERIAL PROTEX AVENA 3 PACK 110G",
+      "precio": 99,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 3,
+      "titulo": "BASE LÍQUIDA MAYBELLINE FIT ME FOUND LIGHT BEIGE 118",
+      "precio": 725,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 4,
+      "titulo": "JABÓN WALA FRESH 110 GR",
+      "precio": 35,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 5,
+      "titulo": "DESRIZADO COCO MYLINE SUPER 8 OZ",
+      "precio": 150,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 6,
+      "titulo": "ACEITE BRONCEADOR HAWAIIAN T DARK TANN SPF4 W/XSS 8 OZ.",
+      "precio": 645,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 7,
+      "titulo": "ACEITE AFRO&RIZO PRE-POO 8 OZ",
+      "precio": 345,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 8,
+      "titulo": "ACETONA DAROSA ALOE VERA 5 OZ",
+      "precio": 80,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 9,
+      "titulo": "JABÓN WALA CREM Y HUMEC 110 GR 3PK",
+      "precio": 140,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 10,
+      "titulo": "CREMA LUBRIDERM EXTRA HUMECTANTE 200 ML.",
+      "precio": 230,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 11,
+      "titulo": "JABÓN ANTIBACTERIAL PROTEX AVENA 3 PACK 110G",
+      "precio": 99,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 13,
+      "titulo": "BASE LÍQUIDA MAYBELLINE FIT ME FOUND LIGHT BEIGE 118",
+      "precio": 725,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 14,
+      "titulo": "JABÓN WALA FRESH 110 GR",
+      "precio": 35,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 15,
+      "titulo": "DESRIZADO COCO MYLINE SUPER 8 OZ",
+      "precio": 150,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 16,
+      "titulo": "ACEITE BRONCEADOR HAWAIIAN T DARK TANN SPF4 W/XSS 8 OZ.",
+      "precio": 645,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 17,
+      "titulo": "ACEITE AFRO&RIZO PRE-POO 8 OZ",
+      "precio": 345,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "categoria": "cuidado personal"
+    },
+    {
+      "id": 18,
+      "titulo": "ACETONA DAROSA ALOE VERA 5 OZ",
+      "precio": 80,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "categoria": "vegetales"
+    },
+    {
+      "id": 19,
+      "titulo": "JABÓN WALA CREM Y HUMEC 110 GR 3PK",
+      "precio": 140,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "categoria": "vegetales"
+    },
+    {
+      "id": 21,
+      "titulo": "CREMA LUBRIDERM EXTRA HUMECTANTE 200 ML.",
+      "precio": 230,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "vegetales"
+    },
+    {
+      "id": 22,
+      "titulo": "JABÓN ANTIBACTERIAL PROTEX AVENA 3 PACK 110G",
+      "precio": 99,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "categoria": "vegetales"
+    },
+    {
+      "id": 23,
+      "titulo": "BASE LÍQUIDA MAYBELLINE FIT ME FOUND LIGHT BEIGE 118",
+      "precio": 725,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "vegetales"
+    },
+    {
+      "id": 24,
+      "titulo": "JABÓN WALA FRESH 110 GR",
+      "precio": 35,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 25,
+      "titulo": "DESRIZADO COCO MYLINE SUPER 8 OZ",
+      "precio": 150,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 26,
+      "titulo": "ACEITE BRONCEADOR HAWAIIAN T DARK TANN SPF4 W/XSS 8 OZ.",
+      "precio": 645,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "categoria": "carnes"
+    },
+    {
+      "id": 27,
+      "titulo": "ACEITE AFRO&RIZO PRE-POO 8 OZ",
+      "precio": 345,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 28,
+      "titulo": "ACETONA DAROSA ALOE VERA 5 OZ",
+      "precio": 80,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 29,
+      "titulo": "JABÓN WALA CREM Y HUMEC 110 GR 3PK",
+      "precio": 140,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 31,
+      "titulo": "CREMA LUBRIDERM EXTRA HUMECTANTE 200 ML.",
+      "precio": 230,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 32,
+      "titulo": "JABÓN ANTIBACTERIAL PROTEX AVENA 3 PACK 110G",
+      "precio": 99,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5e/b6/17e1c416b71f9ebb8bbbe479f310e686.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 33,
+      "titulo": "BASE LÍQUIDA MAYBELLINE FIT ME FOUND LIGHT BEIGE 118",
+      "precio": 725,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "carnes"
+    },
+    {
+      "id": 34,
+      "titulo": "JABÓN WALA FRESH 110 GR",
+      "precio": 35,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/45/8d/2c6ebb8b20a3a6b9472e11c1bfdcdf1e.png",
+      "categoria": "aves y pollo"
+    },
+    {
+      "id": 35,
+      "titulo": "DESRIZADO COCO MYLINE SUPER 8 OZ",
+      "precio": 150,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "categoria": "aves y pollo"
+    },
+    {
+      "id": 36,
+      "titulo": "ACEITE BRONCEADOR HAWAIIAN T DARK TANN SPF4 W/XSS 8 OZ.",
+      "precio": 645,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/36/53/ba2e8e7514cc2b5dd7c00ba69238f891.jpg",
+      "categoria": "aves y pollo"
+    },
+    {
+      "id": 37,
+      "titulo": "ACEITE AFRO&RIZO PRE-POO 8 OZ",
+      "precio": 345,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/4a/66/9fe510ea05c04b64e0aba8dc01235a1b.png",
+      "categoria": "aves y pollo"
+    },
+    {
+      "id": 38,
+      "titulo": "ACETONA DAROSA ALOE VERA 5 OZ",
+      "precio": 80,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/44/4e/bd146425ff24cb656dde14abcbdb77dd.png",
+      "categoria": "aves y pollo"
+    },
+    {
+      "id": 39,
+      "titulo": "JABÓN WALA CREM Y HUMEC 110 GR 3PK",
+      "precio": 140,
+      "imagen": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/large/00/00/30/19/5be79d222374f506c22949e133f19342.png",
+      "thumbnail": "https://assets-sirenago.s3-us-west-1.amazonaws.com/product/thumbs/00/00/5d/a1/397163cec14694a1f005984d618e919e.png",
+      "categoria": "aves y pollo"
+    }
+  ]
+}
